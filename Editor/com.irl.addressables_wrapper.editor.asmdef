@@ -1,0 +1,20 @@
+{
+    "name": "com.irl.addressables_wrapper.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:69448af7b92c7f342b298e06a37122aa",
+        "GUID:b4d561bf373bb5944a74738991d84203",
+        "GUID:32088ff9a40922746b333bf51dd39930"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.irl.addressables_wrapper",
+  "displayName": "Addressables Wrapper",
+  "version": "1.5.0",
+  "unity": "2019.4",
+  "description": "A wrapper package for Unity Addressables to simplify asset bundling and management.",
+  "keywords": [
+    "asset",
+    "resources",
+    "bundle",
+    "bundles",
+    "assetbundles"
+  ],
+  "_upm": {}
+}
