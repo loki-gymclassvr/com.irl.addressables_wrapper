@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.5.0 - 2025-08-14
+- First github release of the addressable wrapper package
+
 ## v1.4.0 - 2025-06-27
 - 403 Error capturing and refreshing catalog more efficiently
 - Remote Catalog Load with a lock and queue
